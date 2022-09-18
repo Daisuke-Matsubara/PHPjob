@@ -1,0 +1,104 @@
+@media screen and (min-width: 767px) {
+    
+}
+
+@media screen and  (max-width: 767px) {
+    .header {
+        max-width: 300px;
+    }
+
+    .left {
+        max-width: 100px;
+    }
+
+    .right {
+       max-width: 200px;
+    }
+
+    .center {
+        max-width: 125px;
+    }
+
+    .center1 {
+        max-width: 125px;
+    }
+
+    .center2 {
+        max-width: 125px;
+    }
+
+    .rightside {
+        max-width: 75px;
+    }
+
+   .right2 {
+        max-width: 200px;
+    }
+
+    .footer {
+        max-width: 300px;
+    }
+}
+
+@media screen and (max-width: 479px) {
+    .header {
+        max-width: 150px;
+        margin: 0 auto;
+    }
+
+    .main {
+        max-width: 150px;
+        margin: 0 auto;        
+    }
+
+    .left {
+        max-width: 150px;
+        height: 50%;
+        margin: 0 auto;
+        float: none;        
+    }
+
+    .right {
+        max-width: 150px;
+        height: 50%;
+        margin: 0 auto;
+        float: none;        
+    }
+
+    .right1 {
+        max-width: 150px;
+        margin: 0 auto;
+        float: none;              
+    }
+
+    .center1 {
+        max-width: 150px;
+        margin: 0 auto;
+        float: none;               
+    }
+
+    .center2 {
+        max-width: 150px;
+        margin: 0 auto;
+        float: none;               
+    }
+
+    .rightside {
+        min-width: 150px;
+        margin: 0 auto;
+        float: none;               
+    }
+
+    .right2 {
+        max-width: 150px;
+        margin: 0 auto;
+        float: none;                
+    }
+
+    .footer {
+        max-width: 150px;
+        margin: 0 auto;
+        float: none;       
+    }
+
+}
