@@ -10,10 +10,42 @@
     background-color: #141f40;
 }
 
-.main {
+.headerbox {
+    width: 160px;
+    height: 60px;
+    box-sizing: border-box;
+    background-color: white;
+}
+
+.box1 {
+    width: 40px;
+    height: 40px;
+    box-sizing: border-box;
+    margin-left: 10px;
+    background-color: #a9004b;
+    float: left;
+}
+
+.box2 {
+    width: 40px;
+    height: 40px;
+    box-sizing: border-box;
+    background-color: #a9004b;
+    float: left;
+}
+
+.box3 {
+    width: 40px;
+    height: 40px;
+    box-sizing: border-box;
+    background-color: #a9004b;
+    float: left;
+}
+
+/* .main {
     width: 400px;
     height: 250px;
-}
+} */
 
 .left {
     width: 150px;
