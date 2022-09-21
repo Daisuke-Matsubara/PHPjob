@@ -11,8 +11,11 @@
 }
 
 .headerbox {
+    display: flex;
+    justify-content: space-around;
     width: 160px;
     height: 60px;
+    margin: 0px 20px 20px 200px;
     box-sizing: border-box;
     background-color: white;
 }
@@ -20,26 +23,22 @@
 .box1 {
     width: 40px;
     height: 40px;
-    box-sizing: border-box;
-    margin-left: 10px;
+    margin-top: 10px;
     background-color: #a9004b;
-    float: left;
 }
 
 .box2 {
     width: 40px;
     height: 40px;
-    box-sizing: border-box;
+    margin-top: 10px;
     background-color: #a9004b;
-    float: left;
 }
 
 .box3 {
     width: 40px;
     height: 40px;
-    box-sizing: border-box;
+    margin-top: 10px;
     background-color: #a9004b;
-    float: left;
 }
 
 /* .main {
