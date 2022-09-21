@@ -53,6 +53,7 @@
 
     .left {
         max-width: 150px;
+        height: 100px;
         margin: 0 auto;
         float: none;        
     }
@@ -84,6 +85,7 @@
 
     .rightside {
         min-width: 150px;
+        height: 100px;
         margin: 0 auto;
         float: none;               
     }
