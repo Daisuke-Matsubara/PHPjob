@@ -1,0 +1,31 @@
+@media screen and (max-width:479px) {
+    .header {
+        width: 200px;
+        height: 200px;
+    }
+    
+    .headerbox {
+        flex-direction: column;
+        justify-content: center;
+        width: 60px;
+        height: 160px;
+    }
+    .main {
+        flex-direction: column;
+        height: 310px;
+    }
+
+    .left {
+        width: 200px;
+        height: 100px;
+    }
+
+    .right {
+        width: 200px;
+        height: 210px;
+    }
+
+    .footer {
+        width: 200px;
+    }
+}
