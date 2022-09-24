@@ -7,9 +7,24 @@
     .headerbox {
         flex-direction: column;
         justify-content: center;
+        justify-content: space-between;
+        position: relative;
+        margin: 0;
+        right: 70px;
         width: 60px;
         height: 160px;
     }
+
+    .box1 {
+        margin: 0;
+        margin-top: 10px;
+    }
+
+    .box3 {
+        margin: 0;
+        margin-bottom: 10px;
+    }
+
     .main {
         flex-direction: column;
         height: 310px;
@@ -23,6 +38,13 @@
     .right {
         width: 200px;
         height: 210px;
+    }
+
+    .rightbox {
+        margin: 0;
+        position: relative;
+        top: 20px;
+        left: 30px;
     }
 
     .footer {
