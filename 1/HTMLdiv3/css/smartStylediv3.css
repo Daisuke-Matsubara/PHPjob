@@ -7,22 +7,12 @@
     .headerbox {
         flex-direction: column;
         justify-content: center;
-        justify-content: space-between;
+        justify-content: space-evenly;
         position: relative;
         margin: 0;
         right: 70px;
         width: 60px;
         height: 160px;
-    }
-
-    .box1 {
-        margin: 0;
-        margin-top: 10px;
-    }
-
-    .box3 {
-        margin: 0;
-        margin-bottom: 10px;
     }
 
     .main {
